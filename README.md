@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am currently pursuing MCA. <br>I am looking to collaborate on many different projects of python and data science<br>I am looking for help with getting nice more opportunities to ccollaborate with experienced people and get more chance to work on real time projects<br>I am currently upskilling myself for data science domain.<br>I am a very hard working person.I am a true blue professional <br>I am a creative person. I love to learn things and love to collaborate with others to built different real time projects. I love to work with team and love to interact with people. Python is my passion as well as my strength. 
+# 💫 About Me
+I am currently pursuing MCA.<br>
+I am looking to collaborate on different projects in Python and Data Science.<br>
+I am looking for more opportunities to collaborate with experienced people and get more chances to work on real-time projects.<br>
+I am currently upskilling myself for the Data Science domain. Python is my passion as well as my strength.<br>
+I am a very hardworking person. I am a true blue professional.<br>
+I am a creative as well as a positive minded person. I love to learn new things and collaborate with others to build different real-time projects. I love to work with a team and enjoy interacting with people.<br>
+
+
+
 
 
 ## 🌐 Socials:
